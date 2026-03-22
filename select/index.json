@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "ハダシの未来",
+  "base_artist": "嵐",
+  "createdAt": "2026-03-22T07:57:25.889245Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ハダシの未来",
+      "artist": "ARASHI",
+      "has_synced": true,
+      "path": "select/01_ハダシの未来_ARASHI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ハダシの未来",
+      "artist": "嵐",
+      "has_synced": true,
+      "path": "select/02_ハダシの未来_嵐.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ハダシの未来",
+      "artist": "嵐",
+      "has_synced": true,
+      "path": "select/03_ハダシの未来_嵐.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ハダシの未来",
+      "artist": "Arashi",
+      "has_synced": true,
+      "path": "select/04_ハダシの未来_Arashi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ハダシの未来",
+      "artist": "Arashi",
+      "has_synced": true,
+      "path": "select/05_ハダシの未来_Arashi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハダシの未来",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_01_ハダシの未来_嵐.txt"
+    }
+  ]
+}
